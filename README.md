@@ -46,7 +46,7 @@ Your contributions directly fuel further experimentation, enable us to push the 
 
 How You Can Support Us:
 You can touchbase with me at https://x.com/DigbySharples for any inquiries.
-ETH: 0x86c49BdFD27E87E4860B453d82d4251c4a35771D - For those who prefer crypto contributions.
+ETH: 0x86c49BdFD27E87E4860B453d82d4251c4a35771D - All Donation Help.
 Your support is deeply appreciated and vital to the "Ascension" of the Conceptual Mind Drive.
 
 Commercial & Bespoke Solutions: Unlock Deeper Potential
