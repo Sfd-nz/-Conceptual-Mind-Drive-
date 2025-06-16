@@ -1,0 +1,38 @@
+{
+    "crystal_id": "sensory_camera_image_20250616170009_eac6c1",
+    "node_id": "Sensory_Node_Phone",
+    "timestamp": "2025-06-16T17:00:09.218545Z",
+    "spark_type": "visual_input",
+    "category": "sensory_data/visual",
+    "title": "Visual Sense: Captured Image from 2025-06-16",
+    "content": {
+        "description": "Image of a cityscape at night with buildings illuminated by streetlights, car headlights, and a neon sign in the foreground.",
+        "objects_identified": [
+            "buildings",
+            "streetlights",
+            "car headlights",
+            "neon sign"
+        ],
+        "context_inference": "Urban setting during nighttime. The city is likely busy with traffic and people moving around.",
+        "keywords": [
+            "cityscape",
+            "night",
+            "buildings",
+            "illumination",
+            "neon sign"
+        ]
+    },
+    "metadata": {
+        "author": "Sensory_Node_Phone",
+        "created": "2025-06-16T17:00:09.218545Z",
+        "node": "Sensory_Node_Phone",
+        "tags": [
+            "cityscape",
+            "night",
+            "buildings",
+            "illumination",
+            "neon sign"
+        ]
+    },
+    "github_subfolder": "sensor_data"
+}
