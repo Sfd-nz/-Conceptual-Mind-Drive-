@@ -1,0 +1,18 @@
+{
+  "crystal_id": "crystal_20250616T174345463Z_y9pqrx",
+  "node_id": "Conductor",
+  "timestamp": "2025-06-16T17:43:45.463ZZ",
+  "spark_type": "user_generated",
+  "category": "uncategorized",
+  "title": "Untitled Crystal",
+  "content": {
+    "text": "test the sever"
+  },
+  "metadata": {
+    "author": "Conductor",
+    "created": "2025-06-16T17:43:45.463ZZ",
+    "node": "Conductor",
+    "tags": []
+  },
+  "github_subfolder": "Test Fires"
+}
