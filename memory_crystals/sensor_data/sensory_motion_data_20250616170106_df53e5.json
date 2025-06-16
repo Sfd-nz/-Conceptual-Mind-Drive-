@@ -1,0 +1,33 @@
+{
+    "crystal_id": "sensory_motion_data_20250616170106_df53e5",
+    "node_id": "Sensory_Node_Phone",
+    "timestamp": "2025-06-16T17:01:06.787486Z",
+    "spark_type": "kinetic_input",
+    "category": "sensory_data/kinetic",
+    "title": "Kinetic Sense: Motion Data from 2025-06-16",
+    "content": {
+        "motion_description": "The motion sensor readings show a mix of stillness and subtle movement in both acceleration and rotation data, with occasional vigorous shakes. The irregularity of the motion suggests that the device could be attached to an object being handled or moved by a user.",
+        "motion_type": "Subtle and vigorous",
+        "inferred_activity": "Device handling/manipulation",
+        "keywords": [
+            "motion sensor",
+            "stillness",
+            "subtle movement",
+            "vigorous shake",
+            "irregular motion"
+        ]
+    },
+    "metadata": {
+        "author": "Sensory_Node_Phone",
+        "created": "2025-06-16T17:01:06.787486Z",
+        "node": "Sensory_Node_Phone",
+        "tags": [
+            "motion sensor",
+            "stillness",
+            "subtle movement",
+            "vigorous shake",
+            "irregular motion"
+        ]
+    },
+    "github_subfolder": "sensor_data"
+}
