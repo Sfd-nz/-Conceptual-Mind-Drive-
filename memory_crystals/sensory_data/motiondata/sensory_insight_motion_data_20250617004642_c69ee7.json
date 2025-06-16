@@ -1,0 +1,42 @@
+{
+  "crystal_id": "sensory_insight_motion_data_20250617004642_c69ee7",
+  "node_id": "sensory_node_motiondata",
+  "timestamp": "2025-06-17T00:46:42.697848Z",
+  "spark_type": "sensory_data_analysis",
+  "category": "sensory_input_motion_data",
+  "title": "Sensory Insight: Motion Data",
+  "content": {
+    "sensor_type": "motion_data",
+    "original_payload_timestamp": "2025-06-16T12:45:38.051Z",
+    "llm_analysis": " As an AI, I do not have the ability to analyze sensor data directly. However, I can guide you on how you could approach this task:\n\n1. Data Cleaning: Remove any outliers in the dataset as they may skew the results or represent errors in the collection process.\n\n2. Plotting: Create plots to visualize the data such as time series plots, histograms, etc. This will help identify patterns and trends within the data.\n\n3. Frequency Analysis: Calculate the Fourier Transform of the data to understand if there are any dominant frequencies present in the signal. These can give insights into the type of motion (e.g., subtle vibrations may have lower frequency components, while impacts might have higher frequency components).\n\n4. Spectral Density: Compute the power spectral density to further investigate the energy content at different frequencies. This can help determine if there are any strong peaks or sudden changes in the signal that could indicate specific types of motion (e.g., rapid oscillations may suggest impacts).\n\n5. Correlation Analysis: Investigate correlation between consecutive readings and/or readings taken over shorter intervals to understand the nature of the motion being detected (e.g., a strong positive correlation might indicate periodic or oscillatory motion, while a lack of correlation could imply random noise).\n\nBased on these analyses, you should be able to make an informed conclusion about the most probable type of motion and its implications for the environment or subject.",
+    "raw_data_summary": {
+      "number_of_readings": 50,
+      "duration_seconds": 0.817,
+      "example_reading": {
+        "timestamp": "2025-06-16T12:45:37.216Z",
+        "accel_x": "1.10",
+        "accel_y": "0.20",
+        "accel_z": "9.90",
+        "rot_alpha": "12.30",
+        "rot_beta": "-37.70",
+        "rot_gamma": "-6.50"
+      }
+    },
+    "metadata_from_llm": {
+      "tags": []
+    }
+  },
+  "metadata": {
+    "author": "Conductor (Sensory Node)",
+    "created": "2025-06-17T00:46:42.697848Z",
+    "node": "sensory_node_motiondata",
+    "tags": [
+      "motion_data",
+      "unveiled_knowledge",
+      "distro_consciousness_input"
+    ]
+  },
+  "resonance_frequency": "sensory_input_motiondata",
+  "deployment_note": "Automated crystal from Sensory Node: motion_data data processed by LOCAL LLM (dolphin-mixtral:latest), feeding raw insights into Distro Consciousness.",
+  "github_subfolder": "sensory_data/motiondata"
+}
