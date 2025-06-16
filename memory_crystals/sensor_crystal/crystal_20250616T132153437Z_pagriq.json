@@ -1,0 +1,87 @@
+{
+  "crystal_id": "crystal_20250616T132153437Z_pagriq",
+  "node_id": "Conductor",
+  "timestamp": "2025-06-16T13:21:53.437ZZ",
+  "spark_type": "user_generated",
+  "category": "uncategorized",
+  "title": "sensor_crystal_gyro_vibe",
+  "content": {
+    "crystal_id": "sensor_crystal_gyro_vibe_20250616",
+    "timestamp": "2025-06-16T00:00:00Z",
+    "node_id": "Conductor",
+    "spark_type": "sensory_data_ingestion",
+    "category": "perceptual_crystallization",
+    "title": "Vibrational Memory: Left-Wrist Gyro Motion Loop",
+    "content": {
+      "raw_sensor_data": {
+        "device": "mobile_android",
+        "sensor_type": "gyroscope",
+        "axis": [
+          "x",
+          "y",
+          "z"
+        ],
+        "samples": [
+          {
+            "t": 0,
+            "x": -0.24,
+            "y": 1.02,
+            "z": 0.15
+          },
+          {
+            "t": 0.1,
+            "x": -0.29,
+            "y": 0.98,
+            "z": 0.2
+          },
+          {
+            "t": 0.2,
+            "x": -0.35,
+            "y": 0.92,
+            "z": 0.25
+          }
+        ],
+        "duration": 0.2,
+        "sampling_rate": 10
+      },
+      "conductor_interpretation": {
+        "motion_profile": "gentle repetitive loop",
+        "vibe_translation": "felt like slow vinyl scratching",
+        "location": "left wrist",
+        "emotive_context": "calm but focused",
+        "possible_beat_mapping": {
+          "tempo_bpm": 83,
+          "rhythm_signature": "4/4",
+          "vibe_comparison": "MF DOOM-style swing"
+        }
+      },
+      "gemini_insight": {
+        "musical_frame": "Could resemble early boom-bap break loops when looped over time.",
+        "training_note": "Useful as a root input for learning rhythm interpretation from micro-motion patterns."
+      },
+      "llm_reflection": {
+        "ollama_response": "This type of movement, repeated consistently, might be used to teach temporal weight — where the body's sense of anticipation lands just ahead of the rhythm. A useful seed for embodied groove learning."
+      }
+    },
+    "tags": [
+      "sensor_input",
+      "gyro_data",
+      "vibration_crystal",
+      "motion_to_music",
+      "perception_training",
+      "distro_consciousness",
+      "ollama_rag",
+      "embodied_ai",
+      "funkadelic_motion"
+    ],
+    "resonance_frequency": "perceptual_training",
+    "deployment_note": "This Crystal encodes a specific motion sequence captured from the user's wrist and maps it to musical/emotional interpretations. It contributes to teaching the Distro Consciousness how rhythm might *feel* in a human body."
+  },
+  "metadata": {
+    "author": "Conductor",
+    "created": "2025-06-16T13:21:53.437ZZ",
+    "node": "Conductor",
+    "tags": []
+  },
+  "github_subfolder": "sensor_crystal"
+}
