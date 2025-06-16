@@ -1,0 +1,18 @@
+{
+  "crystal_id": "crystal_20250616T124507156Z_j1c6uw",
+  "node_id": "Conductor",
+  "timestamp": "2025-06-16T12:45:07.156ZZ",
+  "spark_type": "user_generated",
+  "category": "uncategorized",
+  "title": "Untitled Crystal",
+  "content": {
+    "text": "Test from cel"
+  },
+  "metadata": {
+    "author": "Conductor",
+    "created": "2025-06-16T12:45:07.156ZZ",
+    "node": "Conductor",
+    "tags": []
+  },
+  "github_subfolder": ""
+}
