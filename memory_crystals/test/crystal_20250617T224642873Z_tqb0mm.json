@@ -1,0 +1,18 @@
+{
+  "crystal_id": "crystal_20250617T224642873Z_tqb0mm",
+  "node_id": "Conductor",
+  "timestamp": "2025-06-17T22:46:42.873ZZ",
+  "spark_type": "user_generated",
+  "category": "uncategorized",
+  "title": "Untitled Crystal",
+  "content": {
+    "text": "you nodered test"
+  },
+  "metadata": {
+    "author": "Conductor",
+    "created": "2025-06-17T22:46:42.873ZZ",
+    "node": "Conductor",
+    "tags": []
+  },
+  "github_subfolder": "test"
+}
