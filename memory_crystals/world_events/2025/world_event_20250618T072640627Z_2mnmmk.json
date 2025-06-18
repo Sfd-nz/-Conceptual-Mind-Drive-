@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072640627Z_2mnmmk",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:40.627Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Sensex extends losses to 252 points as FII selling continues amid geopolitical tensions",
+  "content": {
+    "source_url": "https://www.thehindubusinessline.com/markets/sensex-extends-losses-to-252-points-as-fii-selling-continues-amid-geopolitical-tensions/article69703916.ece",
+    "source_name": "BusinessLine",
+    "published_at": "2025-06-17T07:25:03Z",
+    "author": "Anupama Ghosh",
+    "description": "Markets extended their morning losses during the midday session on Tuesday, with the Sensex declining 252.73 points or 0.31% to 81,543.42 and the Nifty falling 91 points or 0.36% to 24,855.50.",
+    "full_content_snippet": "Markets extended their morning losses during the midday session on Tuesday, with the Sensex declining 252.73 points or 0.31 per cent to 81,543.42 and the Nifty falling 91 points or 0.36 per cent to 2… [+2333 chars]",
+    "url_to_image": "https://bl-i.thgim.com/public/incoming/7wgts2/article69697106.ece/alternates/LANDSCAPE_1200/PO06_Chart_2.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:40.627Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "businessline",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Sensex extends losses to 252 points as FII selling continues amid geopolitical tensions\"",
+  "github_subfolder": "world_events/2025"
+}
