@@ -1,0 +1,18 @@
+{
+  "crystal_id": "crystal_20250618T070407074Z_g2v88w",
+  "node_id": "Conductor",
+  "timestamp": "2025-06-18T07:04:07.074ZZ",
+  "spark_type": "user_generated",
+  "category": "uncategorized",
+  "title": "Untitled Crystal",
+  "content": {
+    "text": "you you there test"
+  },
+  "metadata": {
+    "author": "Conductor",
+    "created": "2025-06-18T07:04:07.074ZZ",
+    "node": "Conductor",
+    "tags": []
+  },
+  "github_subfolder": "test"
+}
