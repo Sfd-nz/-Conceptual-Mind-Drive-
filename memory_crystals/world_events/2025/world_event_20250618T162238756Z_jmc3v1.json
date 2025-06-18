@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T162238756Z_jmc3v1",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T16:22:38.756Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Central banks forecast more gold purchases, fewer US dollar reserves in years ahead",
+  "content": {
+    "source_url": "https://finance.yahoo.com/news/central-banks-forecast-more-gold-purchases-fewer-us-dollar-reserves-in-years-ahead-161043112.html",
+    "source_name": "Yahoo Entertainment",
+    "published_at": "2025-06-17T16:10:43Z",
+    "author": "Ines Ferré",
+    "description": "Central banks see more gold purchases ahead and a decline in US dollar reserve holdings, according to a new survey.",
+    "full_content_snippet": "Central banks around the world are snapping up gold (GC=F) at a record pace while forecasting a pullback in US dollar reserves in the years ahead.\r\nAccording to a survey from the World Gold Council, … [+2092 chars]",
+    "url_to_image": "https://s.yimg.com/ny/api/res/1.2/99D7OL_TrK_5jU3LxEU.sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/7bba3ff0-aba2-11ef-bfff-707ac08f944f",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T16:22:38.756Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "yahoo_entertainment",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Central banks forecast more gold purchases, fewer US dollar reserves in years ahead\"",
+  "github_subfolder": "world_events/2025"
+}
