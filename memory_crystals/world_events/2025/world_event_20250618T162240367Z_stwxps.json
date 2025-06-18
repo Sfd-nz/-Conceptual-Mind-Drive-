@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T162240367Z_stwxps",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T16:22:40.367Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "The Future of RMS Starts Now: Duetto Introduces the Revenue & Profit Operating System",
+  "content": {
+    "source_url": "https://www.hospitalitynet.org/news/4127745.html",
+    "source_name": "Hospitality Net",
+    "published_at": "2025-06-17T16:05:59Z",
+    "author": "Duetto",
+    "description": "San Francisco – June 17, 2025 – Duetto, the leading provider of revenue management software for the hospitality industry, today announced the launch of The Revenue & Profit Operating System (RP-OS): the first platform designed to bring together all revenue an…",
+    "full_content_snippet": "San Francisco June 17, 2025Duetto, the leading provider of revenue management software for the hospitality industry, today announced the launch of The Revenue &amp; Profit Operating System (RP-OS): t… [+4507 chars]",
+    "url_to_image": "https://www.hospitalitynet.org/HN-icon.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T16:22:40.367Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "hospitality_net",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"The Future of RMS Starts Now: Duetto Introduces the Revenue & Profit Operating System\"",
+  "github_subfolder": "world_events/2025"
+}
