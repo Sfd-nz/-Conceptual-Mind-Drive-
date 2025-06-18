@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072645076Z_5ltwgq",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:45.076Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Albanese travelled across the world for a date with Trump, only to be stood up",
+  "content": {
+    "source_url": "https://www.abc.net.au/news/2025-06-17/trump-albanese-meeting-g7-cancelled-aukus-left-waiting/105428394",
+    "source_name": "ABC News (AU)",
+    "published_at": "2025-06-17T07:07:56Z",
+    "author": "Jane Norman and Jane Norman",
+    "description": "Seven months in the making, Anthony Albanese told reporters that he had prepared extensively to finally meet with US President Donald Trump. Then a social media post landed with a thud.",
+    "full_content_snippet": "The prime minister was feeling match fit and ready to rumble with the world's most powerful man.\r\nHe had just finished what would be his final press conference in Calgary delivering a punchy performa… [+5435 chars]",
+    "url_to_image": "https://live-production.wcms.abc-cdn.net.au/9451967d7501e793232578cfde7ebf88?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=13&width=862&height=485&imformat=generic",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:45.076Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "abc_news_(au)",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Albanese travelled across the world for a date with Trump, only to be stood up\"",
+  "github_subfolder": "world_events/2025"
+}
