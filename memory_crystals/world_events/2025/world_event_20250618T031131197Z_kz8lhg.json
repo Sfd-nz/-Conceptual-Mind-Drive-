@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031131197Z_kz8lhg",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:31.197Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "G7 leaders urge Trump to ease off trade war",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/news/international/business/g7-leaders-urge-trump-to-ease-off-trade-war/articleshow/121897177.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T02:01:36Z",
+    "author": "AFP",
+    "description": "World leaders at the Group of Seven summit in Canada on Monday pushed US President Donald Trump to back away from his punishing trade war, arguing that it poses a risk to global economic stability. A source at the summit said that French President Emmanuel Ma…",
+    "full_content_snippet": "World leaders at the Group of Seven summit in Canada on Monday pushed US President Donald Trump to back away from his punishing trade war, arguing that it poses a risk to global economic stability.At… [+4298 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121897213,width-1200,height-630,imgsize-131306,overlay-economictimes/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:31.197Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"G7 leaders urge Trump to ease off trade war\"",
+  "github_subfolder": "world_events/2025"
+}
