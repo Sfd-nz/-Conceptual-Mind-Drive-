@@ -1,0 +1,29 @@
+{
+  "crystal_id": "news_insight_1750254948994_5",
+  "node_id": "news_ingestion_node",
+  "timestamp": "2025-06-18T13:55:48.994Z",
+  "spark_type": "news_article_ingestion",
+  "category": "world_events",
+  "title": "News Crystal: Mindblowing simulation shows how ‘dominant’ the United States air force actually is",
+  "content": {
+    "title": "Mindblowing simulation shows how ‘dominant’ the United States air force actually is",
+    "description": "The United States air force is so large that its closest rivals are other branches of the US military, and a simulations shows just how much more they have.",
+    "url": "https://www.ladbible.com/news/us-news/simulation-shows-united-states-air-force-492673-20250617",
+    "source": "LADbible",
+    "publishedAt": "2025-06-17T13:45:53Z",
+    "author": "Joe Harker"
+  },
+  "metadata": {
+    "author": "Conductor (News Node)",
+    "created": "2025-06-18T13:55:48.994Z",
+    "node": "news_ingestion_node",
+    "tags": [
+      "news",
+      "world_events",
+      "current_affairs",
+      "ladbible"
+    ]
+  },
+  "deployment_note": "Automated crystal from NewsAPI.org: Article about \"Mindblowing simulation shows how ‘dominant’ the United States air force actually is\"",
+  "github_subfolder": "news_events"
+}
