@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031123823Z_09jjqz",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:23.823Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "ZYUS Life Sciences Announces Closing of First Tranche of Unit Offering",
+  "content": {
+    "source_url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/zyus-life-sciences-announces-closing-of-first-tranche-of-unit-offering-2",
+    "source_name": "Financial Post",
+    "published_at": "2025-06-17T02:30:17Z",
+    "author": "Business Wire",
+    "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES SASKATOON, Saskatchewan — ZYUS Life Sciences Corporation (the “Company”) (TSXV: ZYUS), a Canadian-based life sciences company focused on the development and comm…",
+    "full_content_snippet": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city an… [+7545 chars]",
+    "url_to_image": "https://placehold.co/600x400/333333/cccccc?text=No+Image",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:23.823Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "financial_post",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"ZYUS Life Sciences Announces Closing of First Tranche of Unit Offering\"",
+  "github_subfolder": "world_events/2025"
+}
