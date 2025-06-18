@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031119450Z_sd9hmt",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:19.450Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "LeddarTech Announces Intention to File under the Bankruptcy and Insolvency Act in Canada",
+  "content": {
+    "source_url": "https://financialpost.com/globe-newswire/leddartech-announces-intention-to-file-under-the-bankruptcy-and-insolvency-act-in-canada",
+    "source_name": "Financial Post",
+    "published_at": "2025-06-17T02:56:57Z",
+    "author": "GlobeNewswire",
+    "description": "QUEBEC CITY, Canada, June 16, 2025 (GLOBE NEWSWIRE) — LeddarTech® Holdings Inc. (“LeddarTech” or the “Company”) (Nasdaq: LDTC), an AI-powered software company recognized for its innovation in advanced driver assistance systems (ADAS) and autonomous driving (A…",
+    "full_content_snippet": "QUEBEC CITY, Canada, June 16, 2025 (GLOBE NEWSWIRE) LeddarTech® Holdings Inc. (LeddarTech or the Company) (Nasdaq: LDTC\r\n), an AI-powered software company recognized for its innovation in advanced dr… [+7025 chars]",
+    "url_to_image": "https://placehold.co/600x400/333333/cccccc?text=No+Image",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:19.450Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "financial_post",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"LeddarTech Announces Intention to File under the Bankruptcy and Insolvency Act in Canada\"",
+  "github_subfolder": "world_events/2025"
+}
