@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T070614791Z_khv7h5",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:06:14.791Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Modi in Cyprus: A subtle masterstroke aimed at Turkey?",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/news/india/pm-modi-cyprus-visit-significance-turkey-message-pakistan-g7-countries/articleshow/121902503.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T07:00:50Z",
+    "author": "ET Online",
+    "description": "Prime Minister Modi's visit to Cyprus, the first in two decades, signals a strategic realignment for India in the Eastern Mediterranean. Beyond economic cooperation, it subtly addresses Turkish assertiveness, especially given Ankara's ties with Islamabad. Cyp…",
+    "full_content_snippet": "Prime Minister Narendra Modis recent visit to Cyprus, the first by an Indian prime minister in over two decades, may seem like a routine stopover on his way to the G7 Summit in Canada. But in diploma… [+5826 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121903427,width-1200,height-630,imgsize-1307629,overlay-economictimes/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:06:14.791Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Modi in Cyprus: A subtle masterstroke aimed at Turkey?\"",
+  "github_subfolder": "world_events/2025"
+}
