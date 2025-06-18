@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T162243318Z_oxvaxh",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T16:22:43.318Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "India's growth under PM Modi: Viksit Bharat 2047, $30 trillion goal, key reforms and welfare milestones",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/indias-growth-under-pm-modi-viksit-bharat-2047-30-trillion-goal-key-reforms-and-welfare-milestones/articleshow/121914078.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T16:02:55Z",
+    "author": "ET CONTRIBUTORS",
+    "description": "Under Narendra Modi's leadership, India aims for Vikasit Bharat 2047, transforming into a $30 trillion economy with a $26,000 per capita income. Significant strides have been made in poverty reduction and infrastructure development. The government focuses on …",
+    "full_content_snippet": "People of the country have been reposing the confidence on Namo for three consecutive terms as the Prime Minister continuously. The spirit of the governance in the Union Government carrying with time… [+7117 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121914073,width-1200,height-630,imgsize-41088,overlay-economictimes/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T16:22:43.318Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"India's growth under PM Modi: Viksit Bharat 2047, $30 trillion goal, key reforms and welfare milestones\"",
+  "github_subfolder": "world_events/2025"
+}
