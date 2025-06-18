@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031117665Z_4zopaz",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:17.665Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Trideep Bhattacharya on where he sees value and sectors that may see outperformance in future",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/markets/expert-view/trideep-bhattacharya-on-where-he-sees-value-and-sectors-that-may-see-outperformance-in-future/articleshow/121886846.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T03:01:00Z",
+    "author": "ET Now",
+    "description": "Edelweiss MF anticipates a consumption rebound in India by the second half of FY26, fueled by easing inflation and strong monsoons. Government infrastructure spending and tactical IT service bets are also key. A potential US trade deal by July could boost IT …",
+    "full_content_snippet": "Trideep Bhattacharya, Chief Investment Officer-Equities, Edelweiss MF, says India's consumption is expected to rebound in the second half of FY26. Factors like easing inflation, strong monsoons, and … [+8614 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121887002,width-1200,height-630,imgsize-68852,overlay-etmarkets/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:17.665Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Trideep Bhattacharya on where he sees value and sectors that may see outperformance in future\"",
+  "github_subfolder": "world_events/2025"
+}
