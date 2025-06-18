@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T070621824Z_bzv6i5",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:06:21.824Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "'Nothing to do with ceasefire': Trump leaves G7 midway. Is US planning something big in Iran?",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/news/international/global-trends/nothing-to-do-with-ceasefire-trump-leaves-g7-midway-is-us-planning-something-big-in-iran/articleshow/121902607.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T06:32:09Z",
+    "author": "ET Online",
+    "description": "President Trump's abrupt departure from the G7 summit in Canada ignited speculation about escalating tensions between Israel and Iran. While France suggested a possible ceasefire, the White House dismissed this, hinting at a significant development. Reports i…",
+    "full_content_snippet": "U.S. President Donald Trump abruptly departed the G7 summit in Canada a day early, fueling speculation about behind-the-scenes diplomatic moves amid the escalating Israel-Iran conflict. At a group ph… [+2649 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121902641,width-1200,height-630,imgsize-147400,overlay-economictimes/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:06:21.824Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"'Nothing to do with ceasefire': Trump leaves G7 midway. Is US planning something big in Iran?\"",
+  "github_subfolder": "world_events/2025"
+}
