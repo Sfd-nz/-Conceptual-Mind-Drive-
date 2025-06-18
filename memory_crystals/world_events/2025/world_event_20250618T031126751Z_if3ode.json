@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031126751Z_if3ode",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:26.751Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Flat opening seen for Nifty, Sensex",
+  "content": {
+    "source_url": "https://www.thehindubusinessline.com/markets/flat-opening-seen-for-nifty-sensex/article69703328.ece",
+    "source_name": "BusinessLine",
+    "published_at": "2025-06-17T02:18:26Z",
+    "author": "KS Badri Narayanan",
+    "description": "Domestic markets set to open flat after rebound, caution advised amid global events, profit-taking expected.",
+    "full_content_snippet": "Domestic markets are expected to open on a flat note on Tuesday after a strong rebound yesterday. Analysts expect the consolidation phase to continue and caution investors to stay alert on the global… [+2387 chars]",
+    "url_to_image": "https://bl-i.thgim.com/public/incoming/3fa8ue/article69690404.ece/alternates/LANDSCAPE_1200/IMG_Businessman_using_la_2_1_L6DBU8AR.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:26.751Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "businessline",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Flat opening seen for Nifty, Sensex\"",
+  "github_subfolder": "world_events/2025"
+}
