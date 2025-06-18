@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T162241813Z_1ylw9o",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T16:22:41.813Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "‘Truly the best’",
+  "content": {
+    "source_url": "https://news.harvard.edu/gazette/story/2025/06/truly-the-best/",
+    "source_name": "Harvard School of Engineering and Applied Sciences",
+    "published_at": "2025-06-17T16:04:50Z",
+    "author": "gazettebeckycoleman",
+    "description": "Employees celebrated for “making real, positive changes — for students, for colleagues, and for the wider world.”",
+    "full_content_snippet": "The mood was joyous as family and friends packed into Sanders Theatre celebrated 65 Harvard Heroes from across the University on Thursday. Nominated and selected by their peers, these staff members w… [+8657 chars]",
+    "url_to_image": "https://news.harvard.edu/wp-content/uploads/2025/06/061225_HarvardHeroes_391.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T16:22:41.813Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "harvard_school_of_engineering_and_applied_sciences",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"‘Truly the best’\"",
+  "github_subfolder": "world_events/2025"
+}
