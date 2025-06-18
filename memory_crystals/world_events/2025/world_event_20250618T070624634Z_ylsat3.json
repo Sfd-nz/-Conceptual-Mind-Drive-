@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T070624634Z_ylsat3",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:06:24.634Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "The game between the strongest industrial power and the strongest financial power",
+  "content": {
+    "source_url": "https://mypeoplesreview.com/2025/06/17/the-game-between-the-strongest-industrial-power-and-the-strongest-financial-power/",
+    "source_name": "Mypeoplesreview.com",
+    "published_at": "2025-06-17T06:22:30Z",
+    "author": "People's Review",
+    "description": "By Nirmal P. Acharya The world currently seems in chaos, but behind various conflicts, the shadow of the China-US game […]\nThe post The game between the strongest industrial power and the strongest financial power appeared first on Peoples' Review.",
+    "full_content_snippet": "By Nirmal P. Acharya\r\nThe world currently seems in chaos, but behind various conflicts, the shadow of the China-US game can be seen.\r\nThe game between China and the US is essentially a contest betwee… [+10076 chars]",
+    "url_to_image": "https://mypeoplesreview.com/wp-content/uploads/2025/06/US-China-game.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:06:24.634Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "mypeoplesreview.com",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"The game between the strongest industrial power and the strongest financial power\"",
+  "github_subfolder": "world_events/2025"
+}
