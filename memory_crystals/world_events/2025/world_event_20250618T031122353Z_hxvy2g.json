@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031122353Z_hxvy2g",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:22.353Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Is the Indian bond market overreacting to Monetary Policy changes? B Prasanna answers",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/markets/expert-view/is-the-indian-bond-market-overreacting-to-monetary-policy-changes-b-prasanna-answers/articleshow/121884942.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T02:41:00Z",
+    "author": "ET Now",
+    "description": "Following the RBI's surprising policy shift, the bond market is adjusting to a new equilibrium. Experts anticipate a settling of interest rates, influenced by falling inflation and potential US rate cuts, with a terminal repo rate possibly targeting 5.25%. In…",
+    "full_content_snippet": "B Prasanna, Group Executive, Head - Global Markets &amp; Proprietary Trading Group,ICICI Bank, says following a shift in sentiment and bond market adjustments, a new equilibrium is expected within th… [+7594 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121885329,width-1200,height-630,imgsize-44386,overlay-etmarkets/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:22.353Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Is the Indian bond market overreacting to Monetary Policy changes? B Prasanna answers\"",
+  "github_subfolder": "world_events/2025"
+}
