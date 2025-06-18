@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072643749Z_a82ttz",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:43.749Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "State-sponsored hackers compromised the email accounts of several Washington Post journalists",
+  "content": {
+    "source_url": "https://securityaffairs.com/179065/security/state-sponsored-hackers-compromised-the-email-accounts-of-several-washington-post-journalists.html",
+    "source_name": "Securityaffairs.com",
+    "published_at": "2025-06-17T07:12:13Z",
+    "author": "Pierluigi Paganini",
+    "description": "State-sponsored hackers compromised the email accounts of several journalists working at the Washington Post. A cyberattack, likely carried out by state-sponsored hackers, compromised the Microsoft email accounts of Washington Post journalists, including repo…",
+    "full_content_snippet": "State-sponsored hackers compromised the email accounts of several Washington Post journalists\r\n | Law enforcement operation shut down dark web drug marketplace Archetyp Market\r\n | New Anubis RaaS inc… [+173042 chars]",
+    "url_to_image": "https://securityaffairs.com/wp-content/uploads/2025/06/image-26-1024x576.png",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:43.749Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "securityaffairs.com",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"State-sponsored hackers compromised the email accounts of several Washington Post journalists\"",
+  "github_subfolder": "world_events/2025"
+}
