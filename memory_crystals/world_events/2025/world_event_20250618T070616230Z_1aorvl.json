@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T070616230Z_1aorvl",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:06:16.230Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Power, Precision, And Production Create A New Media Agency Landscape",
+  "content": {
+    "source_url": "https://www.forrester.com/blogs/power-precision-and-production-create-a-new-media-agency-landscape/",
+    "source_name": "Forrester.com",
+    "published_at": "2025-06-17T07:00:12Z",
+    "author": "Jay Pattisall",
+    "description": "It’s a new media agency landscape. The last six months have witnessed more change in media agencies than what’s occurred over the last six years. Among the events reshaping the media agency landscape are GroupM’s consolidation into WPP Media, Omnicom’s acquis…",
+    "full_content_snippet": "Its a new media agency landscape. The last six months have witnessed more change in media agencies than whats occurred over the last six years. Among the events reshaping the media agency landscape a… [+5164 chars]",
+    "url_to_image": "https://go.forrester.com/wp-content/uploads/2025/06/Media-agency-logos.png",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:06:16.230Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "forrester.com",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Power, Precision, And Production Create A New Media Agency Landscape\"",
+  "github_subfolder": "world_events/2025"
+}
