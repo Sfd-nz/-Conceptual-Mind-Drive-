@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T070623189Z_nzqk12",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:06:23.189Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "AbbVie (ABBV) Pipeline Bolstered as FDA Approves Mavyret Label Expansion for Hepatitis C",
+  "content": {
+    "source_url": "https://finance.yahoo.com/news/abbvie-abbv-pipeline-bolstered-fda-062415867.html",
+    "source_name": "Yahoo Entertainment",
+    "published_at": "2025-06-17T06:24:15Z",
+    "author": "Abdul Rahman",
+    "description": "AbbVie Inc. (NYSE:ABBV) is one of the 12 best healthcare stocks to buy now. On June 12, the US Food and Drug Administration (FDA) approved the company’s...",
+    "full_content_snippet": "AbbVie Inc. (NYSE:ABBV) is one of the 12 best healthcare stocks to buy now. On June 12, the US Food and Drug Administration (FDA) approved the companys Mavyret treatment label expansion. The approval… [+1641 chars]",
+    "url_to_image": "https://s.yimg.com/ny/api/res/1.2/t1oNgH.r97zBI99BQ0XY1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3cff52bdb5bd9e91dc13d43a22831dff",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:06:23.189Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "yahoo_entertainment",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"AbbVie (ABBV) Pipeline Bolstered as FDA Approves Mavyret Label Expansion for Hepatitis C\"",
+  "github_subfolder": "world_events/2025"
+}
