@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072652508Z_g1ab08",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:52.508Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Technology education key to India’s sovereignty",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/opinion/et-commentary/technology-education-key-to-indias-sovereignty/articleshow/121902758.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T06:42:17Z",
+    "author": "Suresh Prabhu, Shobhit Mathur",
+    "description": "India faces a critical juncture where technological prowess defines national sovereignty. Addressing faculty shortages by including experienced professionals, fostering private sector innovation through supportive policies, and boosting research output are cr…",
+    "full_content_snippet": "Recent global events have proved beyond doubt that in the years ahead, the power of nations will be defined not by the size of their armies or economies but by their command of technology. Artificial… [+5554 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36218,resizemode-75,msid-121902758/opinion/et-commentary/technology-education-key-to-indias-sovereignty.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:52.508Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Technology education key to India’s sovereignty\"",
+  "github_subfolder": "world_events/2025"
+}
