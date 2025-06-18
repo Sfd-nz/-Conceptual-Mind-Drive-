@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072651217Z_4wj3m6",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:51.217Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Where Are The Black Designers?: From grassroots beginnings to a global creative force",
+  "content": {
+    "source_url": "https://www.creativeboom.com/inspiration/where-are-the-black-designers-how-a-grassroots-initiative-became-a-global-creative-force/",
+    "source_name": "Creative Boom",
+    "published_at": "2025-06-17T06:45:00Z",
+    "author": "Abbey Bamford",
+    "description": "From a one-off digital event to a global community platform, 'Where Are The Black Designers?' is redefining how the creative industries discuss and address inclusion. With their first festival in L...",
+    "full_content_snippet": "When Where Are The Black Designers? (WATBD) launched in 2020, it was meant to be a single event. It was a one-time rallying cry for change during a time of global uncertainty and growing reflection o… [+5981 chars]",
+    "url_to_image": "https://www.creativeboom.com/upload/articles/ab/abd455905ceb5ba9e5babce39f0b063c218393d0_800.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:51.217Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "creative_boom",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Where Are The Black Designers?: From grassroots beginnings to a global creative force\"",
+  "github_subfolder": "world_events/2025"
+}
