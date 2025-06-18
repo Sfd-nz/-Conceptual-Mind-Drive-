@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T070620398Z_lnve3w",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:06:20.398Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Digital Rupee vs Crypto: What the debate misses about the future of money",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/markets/cryptocurrency/digital-rupee-vs-crypto-what-the-debate-misses-about-the-future-of-money/articleshow/121902751.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T06:37:00Z",
+    "author": "ET CONTRIBUTORS",
+    "description": "India is seeing a digital money revolution with the Digital Rupee and crypto assets. The focus should be on user experience, not just technology. The Digital Rupee's success depends on instant settlement, low fees, and universal acceptance. India needs polici…",
+    "full_content_snippet": "India is in the midst of a silent revolution in money. On one hand, we have the Digital Rupee, the Reserve Bank of Indias Central Bank Digital Currency (CBDC), and on the other, the rapidly growing w… [+4715 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121902874,width-1200,height-630,imgsize-12378,overlay-etmarkets/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:06:20.398Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Digital Rupee vs Crypto: What the debate misses about the future of money\"",
+  "github_subfolder": "world_events/2025"
+}
