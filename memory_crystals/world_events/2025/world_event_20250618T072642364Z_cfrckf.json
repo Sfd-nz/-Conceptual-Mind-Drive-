@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072642364Z_cfrckf",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:42.364Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Explainer: What are bitcoin treasury strategies, the latest trend in the public markets?",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/markets/cryptocurrency/explainer-what-are-bitcoin-treasury-strategies-the-latest-trend-in-the-public-markets/articleshow/121903776.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T07:14:46Z",
+    "author": "Reuters",
+    "description": "Public companies, including Trump's, are adopting bitcoin treasury strategies, inspired by Strategy's success. These firms aim to leverage credit markets for further bitcoin acquisitions, attracting attention and potentially higher valuations. However, risks …",
+    "full_content_snippet": "Certain public companies, including one founded by President Donald Trump, have been going on a cryptocurrency buying spree, capitalizing on higher token prices and a softening regulatory environment… [+4776 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121903818,width-1200,height-630,imgsize-657348,overlay-etmarkets/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:42.364Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Explainer: What are bitcoin treasury strategies, the latest trend in the public markets?\"",
+  "github_subfolder": "world_events/2025"
+}
