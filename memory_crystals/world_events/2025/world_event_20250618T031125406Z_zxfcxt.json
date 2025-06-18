@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031125406Z_zxfcxt",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:25.406Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Private club 1880 Singapore closes down, says it has no funds to pay staff and suppliers",
+  "content": {
+    "source_url": "https://www.channelnewsasia.com/business/1880-singapore-club-shut-close-down-liquidation-5186221",
+    "source_name": "CNA",
+    "published_at": "2025-06-17T02:24:06Z",
+    "author": "N/A",
+    "description": "The private members' club in Robertson Quay said spending and visits by its members have been \"trending down\".",
+    "full_content_snippet": "SINGAPORE: Private members' club 1880 Singapore has informed members it will close permanently on Tuesday (Jun 17) and enter liquidation.\r\nThe club, located in Robertson Quay, was founded by Marc Nic… [+1765 chars]",
+    "url_to_image": "https://dam.mediacorp.sg/image/upload/s--u69mfPAo--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/06/17/1880_closed.jpg?itok=MSf5VR5a",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:25.406Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "cna",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Private club 1880 Singapore closes down, says it has no funds to pay staff and suppliers\"",
+  "github_subfolder": "world_events/2025"
+}
