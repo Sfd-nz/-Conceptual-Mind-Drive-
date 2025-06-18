@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T072646482Z_t3j0q7",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T07:26:46.482Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Stearman Enters Into Definitive Agreement to Acquire NeoCore Uranium Ltd.",
+  "content": {
+    "source_url": "https://www.globenewswire.com/news-release/2025/06/17/3100358/0/en/Stearman-Enters-Into-Definitive-Agreement-to-Acquire-NeoCore-Uranium-Ltd.html",
+    "source_name": "GlobeNewswire",
+    "published_at": "2025-06-17T07:01:00Z",
+    "author": "Stearman Resources Inc.",
+    "description": "VANCOUVER, British Columbia, June 17, 2025 (GLOBE NEWSWIRE) -- Stearman Resources Inc. (CSE:STMN) (“Stearman” or the “Company”) announces that it has entered into a definitive share exchange agreement (“NeoCore Agreement”) to acquire 100% of the issued and ou…",
+    "full_content_snippet": "VANCOUVER, British Columbia, June 17, 2025 (GLOBE NEWSWIRE) -- Stearman Resources Inc. (CSE:STMN) (Stearman or the Company) announces that it has entered into a definitive share exchange agreement (N… [+4598 chars]",
+    "url_to_image": "https://placehold.co/600x400/333333/cccccc?text=No+Image",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T07:26:46.482Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "globenewswire",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Stearman Enters Into Definitive Agreement to Acquire NeoCore Uranium Ltd.\"",
+  "github_subfolder": "world_events/2025"
+}
