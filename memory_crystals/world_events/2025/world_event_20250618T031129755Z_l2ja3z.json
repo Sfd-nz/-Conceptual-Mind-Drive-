@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031129755Z_l2ja3z",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:29.755Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Eppeltone Engineers IPO opens today: All key details you need to know before subscribing",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/eppeltone-engineers-ipo-opens-today-all-key-details-you-need-to-know-before-subscribing/articleshow/121897231.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T02:08:51Z",
+    "author": "ETMarkets.com",
+    "description": "Eppeltone Engineers, an Indian energy solutions provider since 1977, launches its Rs 43.96 crore IPO on NSE SME, opening Tuesday and closing Thursday, with shares priced at Rs 125-Rs 128. The IPO aims to raise capital for working funds, new machinery, and gen…",
+    "full_content_snippet": "Eppeltone Engineers, a long-standing player in Indias energy solutions and metering sector, is opening its Rs 43.96 crore IPO for subscription on Tuesday. The IPO will close on Thursday and the share… [+1559 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121897229,width-1200,height-630,imgsize-64231,overlay-etmarkets/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:29.755Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Eppeltone Engineers IPO opens today: All key details you need to know before subscribing\"",
+  "github_subfolder": "world_events/2025"
+}
