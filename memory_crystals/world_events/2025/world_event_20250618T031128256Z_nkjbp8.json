@@ -1,0 +1,32 @@
+{
+  "crystal_id": "world_event_20250618T031128256Z_nkjbp8",
+  "node_id": "World_Event_Ingestion_Studio",
+  "timestamp": "2025-06-18T03:11:28.256Z",
+  "spark_type": "world_event_ingestion",
+  "category": "current_events",
+  "title": "Despite law, US TikTok ban likely to remain on hold",
+  "content": {
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/despite-law-us-tiktok-ban-likely-to-remain-on-hold/articleshow/121897264.cms",
+    "source_name": "The Times of India",
+    "published_at": "2025-06-17T02:12:55Z",
+    "author": "AFP",
+    "description": "​Trump said a group of purchasers is ready to pay TikTok owner ByteDance \"a lot of money\" for the video-clip-sharing sensation's US operations. Trump has repeatedly downplayed risks that TikTok is in danger, saying he remains confident of finding a buyer for …",
+    "full_content_snippet": "US President Donald Trump is widely expected to extend the Thursday deadline for TikTok to find a non-Chinese buyer or face a ban in the United States.It would be the third time Trump put off enforci… [+3369 chars]",
+    "url_to_image": "https://img.etimg.com/thumb/msid-121897276,width-1200,height-630,imgsize-94638,overlay-ettech/articleshow.jpg",
+    "topic_query": "global events"
+  },
+  "metadata": {
+    "author": "Conductor (via World Event Studio)",
+    "created": "2025-06-18T03:11:28.256Z",
+    "node": "World_Event_Ingestion_Studio",
+    "tags": [
+      "world_event",
+      "news",
+      "the_times_of_india",
+      "global_events"
+    ]
+  },
+  "resonance_frequency": "global_awareness",
+  "deployment_note": "Automated crystal from World Event Ingestion Studio, capturing current event: \"Despite law, US TikTok ban likely to remain on hold\"",
+  "github_subfolder": "world_events/2025"
+}
